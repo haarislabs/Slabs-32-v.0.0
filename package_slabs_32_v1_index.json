@@ -9,7 +9,7 @@
       "platforms": [
         {
           "category": "Contributed", 
-          "name": "Slabs-32_Esp8266", 
+          "name": "Slabs-32_esp8266", 
           "url": "https://github.com/haarislabs/Slabs-32-v1.0.0/raw/slabs.io/package/Slabs_Esp-1.0.0.zip", 
           "checksum": "SHA-256:413C56A266833BD65762FA159ABB9A10161B9CC83A9669D35F9A8A75B3B2FC5D", 
           "help": {
@@ -43,9 +43,9 @@
           "size": "8595050"
         },
         {
-          "name": "Slabs-32 Atmega",
+          "name": "Slabs 32 Boards",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.6.2",
           "category": "Contributed",
           "help": {
             "online": "http://www.arduino.cc/en/Reference/HomePage"
@@ -53,7 +53,7 @@
           "url": "https://github.com/haarislabs/Slabs-32-v1.0.0/raw/slabs.io/package/Slabs_Atmega-1.0.0.zip",
           "archiveFileName": "Slabs_Atmega-1.0.0.zip",
           "checksum": "SHA-256:4BD4C87C35AA08694BB289C1BE317A5FAD9BA041E9CA4B07C2ABFBA0688D5111",
-          "size": "5236674",
+          "size": "5232720",
           "boards": [
             {"name": "Slabs 32 Atmega"}
             
@@ -379,7 +379,7 @@
         }
       ], 
       "email": "haaris.moosa@startoonlabs.com", 
-      "name": "Slabs-32"
+      "name": "esp8266"
     }
   ]
 }

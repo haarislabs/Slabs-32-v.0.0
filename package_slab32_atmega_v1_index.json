@@ -1,0 +1,36 @@
+{
+  "packages": [
+    {
+      "name": "Slabs 32 Atmega",
+      "maintainer": "Startoon labs",
+      "websiteURL": "http://www.arduino.cc/",
+      "email": "packages@arduino.cc",
+      "help": {
+        "online": "http://www.arduino.cc/en/Reference/HomePage"
+      },
+      "platforms": [
+        {
+          "name": "Slabs 32 Boards",
+          "architecture": "avr",
+          "version": "1.6.2",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.arduino.cc/en/Reference/HomePage"
+          },
+          "url": "https://github.com/haarislabs/Slabs-32-v1.0.0/raw/slabs.io/package/Slabs_Atmega-1.0.0.zip",
+          "archiveFileName": "slabs_test_atmega1.zip",
+          "checksum": "SHA-256:FFA23F50932FD534857D76832032E802428E6C58159D97CDFD46C991BA17E2D1",
+          "size": "5232720",
+          "boards": [
+            {"name": "Slabs 32 Atmega"}
+            
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+   ], 
+      "email": "haaris.moosa@startoonlabs.com", 
+      "name": "Slab-32_Atmega_test"
+}

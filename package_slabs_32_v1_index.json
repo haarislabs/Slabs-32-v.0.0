@@ -43,7 +43,7 @@
           "size": "8595050"
         },
         {
-          "name": "Slabs 32 Boards",
+          "name": "Slabs-32 Atmega",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",

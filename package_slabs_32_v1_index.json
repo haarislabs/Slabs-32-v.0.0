@@ -52,7 +52,7 @@
           },
           "url": "https://github.com/haarislabs/Slabs-32-v1.0.0/raw/slabs.io/package/Slabs_Atmega-1.0.0.zip",
           "archiveFileName": "Slabs_Atmega-1.0.0.zip",
-          "checksum": "SHA-256:4BD4C87C35AA08694BB289C1BE317A5FAD9BA041E9CA4B07C2ABFBA0688D5111",
+          "checksum": "SHA-256:FFA23F50932FD534857D76832032E802428E6C58159D97CDFD46C991BA17E2D1",
           "size": "5232720",
           "boards": [
             {"name": "Slabs 32 Atmega"}

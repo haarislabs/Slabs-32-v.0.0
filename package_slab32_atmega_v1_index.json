@@ -12,7 +12,7 @@
         {
           "name": "Slabs 32 Boards",
           "architecture": "avr",
-          "version": "1.6.2",
+          "version": "1.0.0",
           "category": "Contributed",
           "help": {
             "online": "http://www.arduino.cc/en/Reference/HomePage"

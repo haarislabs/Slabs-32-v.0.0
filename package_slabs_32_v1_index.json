@@ -10,14 +10,14 @@
         {
           "category": "Contributed", 
           "name": "Slabs-32_Esp8266", 
-          "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slabs_cd_esp8266-2.3.0.zip", 
-          "checksum": "SHA-256:EAE988C922AC6A48CBA5E4ECD41B08AF4046CB52E7A5A4B0E96FC0BA08D4C874", 
+          "url": "https://github.com/haarislabs/Slabs-32-v1.0.0/raw/slabs.io/package/Slabs_Esp-1.0.0.zip", 
+          "checksum": "SHA-256:413C56A266833BD65762FA159ABB9A10161B9CC83A9669D35F9A8A75B3B2FC5D", 
           "help": {
             "online": "http://esp8266.github.com/Arduino/versions/2.3.0/"
           }, 
           "version": "1.0.0", 
           "architecture": "esp8266", 
-          "archiveFileName": "slabs_cd_esp8266-2.3.0.zip", 
+          "archiveFileName": "Slabs_Esp-1.0.0.zip", 
           "boards": [
             {
               "name": "Slabs-32 Generic ESP8266 Module"
@@ -50,10 +50,10 @@
           "help": {
             "online": "http://www.arduino.cc/en/Reference/HomePage"
           },
-          "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slabs_test_atmega1.zip",
-          "archiveFileName": "slabs_test_atmega1.zip",
-          "checksum": "SHA-256:6A6F4D33546C1FEC1F06560B832ED0DA3E5009CBA1AB72FC291A44DE87CA9725",
-          "size": "5232720",
+          "url": "https://github.com/haarislabs/Slabs-32-v1.0.0/raw/slabs.io/package/Slabs_Atmega-1.0.0.zip",
+          "archiveFileName": "Slabs_Atmega-1.0.0.zip",
+          "checksum": "SHA-256:4BD4C87C35AA08694BB289C1BE317A5FAD9BA041E9CA4B07C2ABFBA0688D5111",
+          "size": "5236674",
           "boards": [
             {"name": "Slabs 32 Atmega"}
             

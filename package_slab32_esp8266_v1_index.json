@@ -9,18 +9,18 @@
       "platforms": [
         {
           "category": "Contributed", 
-          "name": "Slabs-32_esp8266", 
+          "name": "Slabs 32 Esp8266", 
           "url": "https://github.com/haarislabs/Slabs-32-v1.0.0/raw/slabs.io/package/Slabs_Esp-1.0.0.zip", 
-          "checksum": "SHA-256:413C56A266833BD65762FA159ABB9A10161B9CC83A9669D35F9A8A75B3B2FC5D", 
+          "checksum": "SHA-256:474A780F0C21883A21C280383B513217BF59A5231E09F233EC9E9E1405D3FB99", 
           "help": {
             "online": "http://esp8266.github.com/Arduino/versions/2.3.0/"
           }, 
           "version": "1.0.0", 
           "architecture": "esp8266", 
-          "archiveFileName": "slabs_cd_esp8266-2.3.0.zip", 
+          "archiveFileName": "Slabs_Esp-1.0.0.zip", 
           "boards": [
             {
-              "name": "Slabs-32 Generic ESP8266 Module"
+              "name": "Slabs-32 ESP8266 Module"
             }
           ], 
           "toolsDependencies": [

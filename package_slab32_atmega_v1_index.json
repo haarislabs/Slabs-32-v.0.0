@@ -23,7 +23,7 @@
           "size": "5232720",
           "boards": [
             {"name": "Slabs 32 Atmega"}
-            
+          
           ],
           "toolsDependencies": []
         }

@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Slabs 32 Boards",
+          "name": "Slabs 32 Atmega",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/haarislabs/Slabs-32-v1.0.0/raw/slabs.io/package/Slabs_Atmega-1.0.0.zip",
           "archiveFileName": "Slabs_Atmega-1.0.0.zip",
-          "checksum": "SHA-256:19256B3BA181F217D695310F6B22AF5452B6026E7D1E7702D4E9439A48AFDEEB",
+          "checksum": "SHA-256:E434AC3B36EEA3450164BE81B0C89E0EC3CA0EBFF7385E0F1ACD6F6B46EC1B9F",
           "size": "5232720",
           "boards": [
             {"name": "Slabs 32 Atmega"}
@@ -32,5 +32,5 @@
     }
    ], 
       "email": "haaris.moosa@startoonlabs.com", 
-      "name": "Slab-32_Atmega_test"
+      "name": "Slab-32_Atmega_test1"
 }

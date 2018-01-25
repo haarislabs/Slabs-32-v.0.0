@@ -24,11 +24,11 @@ bool flag;
   byte p; //PIR sensor
   byte s; //Soil moisture sensor
   
-const char SID[]     = "Suresh"; //Network ssid
-const char PASSWORD[] = "startoonlabs@2017";  //Network password
-char username[] = "24779820-0102-11e8-8620-addae6ef14ff"; //User name of cayenne account
-char password[] = "2d2b97f88f8e8128ccaa7a8743966302f1ca91b3"; //Password of Cayenne account
-char clientID[] = "a9494d10-018d-11e8-a79c-af045a32c3da"; //Client id of Cayenne account
+const char SID[]     = "Enter_your_ssid"; //Network ssid
+const char PASSWORD[] = "Enter_your_password";  //Network password
+char username[] = "Your_Mqtt_username"; //User name of cayenne account
+char password[] = "Your_MqTT_password"; //Password of Cayenne account
+char clientID[] = "Your_Clint_ID"; //Client id of Cayenne account
 
 // Use your own API key by signing up for a free developer account.
 // http://www.wunderground.com/weather/api/

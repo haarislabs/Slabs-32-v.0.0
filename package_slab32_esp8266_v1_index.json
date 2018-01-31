@@ -20,7 +20,7 @@
           "archiveFileName": "Slabs_Esp-1.0.0.zip", 
           "boards": [
             {
-              "name": "Slabs-32 ESP8266 Module"
+              "name": "Slabs-32 ESP8266"
             }
           ], 
           "toolsDependencies": [

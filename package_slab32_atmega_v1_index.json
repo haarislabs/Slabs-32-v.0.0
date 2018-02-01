@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "Slabs 32 Atmega",
-      "maintainer": "Startoon labs",
+      "maintainer": "Startoon Labs",
       "websiteURL": "http://startoonlabs.com/",
       "email": "packages@arduino.cc",
       "help": {
